@@ -1,21 +1,21 @@
 sbgn-pd name:"inos"
 	elements
-		IFNγ-dimer-c t:macromolecule-multimer name:"IFNγ" uoi:N:2
-		IFNγR1-dimer-c t:macromolecule-multimer name:"IFNγR1" uoi:N:2 Y457:<f>
-		IFNγR1-dimer-P-c t:macromolecule-multimer name:"IFNγR1" uoi:N:2 Y457:P
-		IFNγR2-dimer-c t:macromolecule-multimer name:"IFNγR2" uoi:N:2
+		IFNγ-dimer t:macromolecule-multimer name:"IFNγ" uoi:N:2
+		IFNγR1-dimer t:macromolecule-multimer name:"IFNγR1" uoi:N:2 Y457:<f>
+		IFNγR1-dimer-P t:macromolecule-multimer name:"IFNγR1" uoi:N:2 Y457:P
+		IFNγR2-dimer t:macromolecule-multimer name:"IFNγR2" uoi:N:2
 		CaM-dimer t:macromolecule-multimer name:"CaM" uoi:N:2
 		INOS-dimer t:macromolecule-multimer name:"INOS" uoi:N:2
-		JAK1-c t:macromolecule name:"JAK1"
-		JAK2-c t:macromolecule name:"JAK2"
+		JAK1 t:macromolecule name:"JAK1"
+		JAK2 t:macromolecule name:"JAK2"
 		extracellular_space
 			IFNγ t:macromolecule-multimer uoi:N:2
 			Arginine-extracellular t:simple-chemical
 			NO-extracellular t:simple-chemical name:"NO"
 		plasma_membrane
-			C1 t:complex-multimer parts:IFNγR1-dimer-c,IFNγR2-dimer-c,JAK1-c,JAK2-c
-			C2 t:complex-multimer parts:IFNγ-dimer-c,IFNγR1-dimer-c,IFNγR2-dimer-c,JAK1-c,JAK2-c
-			C3 t:complex-multimer parts:IFNγ-dimer-c,IFNγR1-dimer-P-c,IFNγR2-dimer-c,JAK1-c,JAK2-c
+			C1 t:complex-multimer parts:IFNγR1-dimer,IFNγR2-dimer,JAK1,JAK2
+			C2 t:complex-multimer parts:IFNγ-dimer,IFNγR1-dimer,IFNγR2-dimer,JAK1,JAK2
+			C3 t:complex-multimer parts:IFNγ-dimer,IFNγR1-dimer-P,IFNγR2-dimer,JAK1,JAK2
 		cytosol
 			IRF1-mRNA t:nucleic-acid-feature name:"IRF1" uoi:ct:mRNA
 			INOS-mRNA t:nucleic-acid-feature name:"INOS" uoi:ct:mRNA
@@ -49,34 +49,34 @@ sbgn-pd name:"inos"
 			S5 t:source
 			S6 t:source
 	reactions
-    IFNγ,C1 process:C2
-    C2 p1::process:C3
-    C2 stimulation:p1
-    STAT1α p2::process:STAT1α-P-P
-    C3 stimulation:p2
-    STAT1α-P-P process:STAT1α-P-P-dimer
-    STAT1α-P-P-dimer process:STAT1α-P-P-dimer-nucleus
-    S5 p3::process:IRF1-mRNA-nucleus
-    STAT1α-P-P-dimer-nucleus,IRF1-gene and-necessary-stimulation:p3
-    IRF1-mRNA-nucleus process:IRF1-mRNA
-    IRF1-mRNA process:S2
+		IFNγ,C1 process:C2
+		C2 p1::process:C3
+		C2 stimulation:p1
+		STAT1α p2::process:STAT1α-P-P
+		C3 stimulation:p2
+		STAT1α-P-P process:STAT1α-P-P-dimer
+		STAT1α-P-P-dimer process:STAT1α-P-P-dimer-nucleus
+		S5 p3::process:IRF1-mRNA-nucleus
+		STAT1α-P-P-dimer-nucleus,IRF1-gene and-necessary-stimulation:p3
+		IRF1-mRNA-nucleus process:IRF1-mRNA
+		IRF1-mRNA process:S2
 		S1 p4::process:IRF1
-    IRF1-mRNA necessary-stimulation:p4
-    IRF1 process:IRF1-nucleus
-    S6 p5::process:INOS-mRNA-nucleus
-    IRF1-nucleus,INOS-gene and-necessary-stimulation:p5
-    INOS-mRNA-nucleus process:INOS-mRNA
-    INOS-mRNA process:S4
-    S5 p6::process:INOS
-    INOS-mRNA necessary-stimulation:p6
-    INOS,CaM process:C4
-    Arginine,O2 p7::process:NO,Citrulline
-    C4 catalysis:p7
-    Arginine-extracellular process:Arginine
-    NO process:NO-extracellular
-    Citrulline,Aspartate p8::process:Arginino-succinate
-    ASS catalysis:p8
-    Arginino-succinate p9::process:Fumarate arginine
-    ASL catalysis:p9
+		IRF1-mRNA necessary-stimulation:p4
+		IRF1 process:IRF1-nucleus
+		S6 p5::process:INOS-mRNA-nucleus
+		IRF1-nucleus,INOS-gene and-necessary-stimulation:p5
+		INOS-mRNA-nucleus process:INOS-mRNA
+		INOS-mRNA process:S4
+		S5 p6::process:INOS
+		INOS-mRNA necessary-stimulation:p6
+		INOS,CaM process:C4
+		Arginine,O2 p7::process:NO,Citrulline
+		C4 catalysis:p7
+		Arginine-extracellular process:Arginine
+		NO process:NO-extracellular
+		Citrulline,Aspartate p8::process:Arginino-succinate
+		ASS catalysis:p8
+		Arginino-succinate p9::process:Fumarate arginine
+		ASL catalysis:p9
     
 
