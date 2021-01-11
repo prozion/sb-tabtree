@@ -1,0 +1,882 @@
+root
+	edges
+		1690 from:276 to:39
+		1158 from:225 to:49
+		1085 from:927 to:751
+		1670 from:1636 to:1632
+		1925 from:56 to:1706
+		1658 from:91 to:155
+		1539 from:687 to:623
+		1610 from:23 to:7
+		1687 from:915 to:525
+		1683 from:385 to:1639
+		1664 from:1631 to:1632
+		1927 from:353 to:555
+		1197 from:189 to:93
+		1577 from:687 to:801
+		1119 from:859 to:325
+		1907 from:1701 to:7
+		1912 from:431 to:1702
+		1289 from:523 to:377
+		1157 from:635 to:453
+		1886 from:1676 to:1692
+		1161 from:593 to:933
+		1574 from:377 to:307
+		1707 from:551 to:687
+		1624 from:389 to:333
+		1942 from:1697 to:1709
+		1713 from:437 to:1642
+		1773 from:1660 to:31
+		81 from:1583 to:272
+		1823 from:555 to:825
+		1385 from:131 to:543
+		1924 from:1706 to:1704
+		1224 from:115 to:967
+		1294 from:965 to:257
+		1396 from:195 to:117
+		1388 from:755 to:15
+		1709 from:103 to:7
+		1622 from:801 to:1612
+		1204 from:321 to:755
+		1936 from:85 to:65
+		1213 from:353 to:593
+		1888 from:65 to:1642
+		1832 from:1663 to:1676
+		1541 from:623 to:130
+		1849 from:1683 to:385
+		1784 from:1665 to:1666
+		1248 from:85 to:187
+		1507 from:123 to:391
+		1333 from:629 to:159
+		1062 from:529 to:61
+		1669 from:1635 to:1636
+		1296 from:353 to:575
+		1612 from:837 to:56
+		262 from:399 to:13
+		1172 from:885 to:251
+		1414 from:63 to:237
+		1688 from:159 to:529
+		1810 from:353 to:931
+		1477 from:539 to:593
+		1772 from:1660 to:141
+		82 from:833 to:272
+		1523 from:687 to:755
+		1547 from:675 to:411
+		1079 from:75 to:99
+		1167 from:785 to:665
+		1938 from:801 to:1707
+		1763 from:1652 to:1653
+		1753 from:13 to:209
+		1702 from:1641 to:59
+		1528 from:927 to:385
+		1092 from:783 to:589
+		1950 from:1712 to:1709
+		1900 from:235 to:1698
+		1787 from:1667 to:1668
+		1249 from:603 to:163
+		1774 from:1660 to:279
+		1155 from:19 to:629
+		1380 from:207 to:659
+		1657 from:155 to:1629
+		1819 from:1647 to:157
+		1858 from:795 to:793
+		1816 from:65 to:1652
+		1544 from:781 to:839
+		1641 from:205 to:1619
+		1174 from:399 to:25
+		1665 from:1632 to:543
+		1691 from:281 to:33
+		1045 from:411 to:535
+		1698 from:535 to:377
+		1058 from:307 to:95
+		1090 from:33 to:59
+		1732 from:353 to:270
+		1800 from:157 to:223
+		1826 from:1674 to:266
+		1509 from:495 to:131
+		1754 from:181 to:209
+		1640 from:1616 to:1618
+		1464 from:951 to:385
+		1662 from:1629 to:1630
+		1190 from:95 to:103
+		1807 from:1648 to:288
+		1043 from:99 to:225
+		1343 from:249 to:659
+		1798 from:1669 to:865
+		1771 from:1659 to:1660
+		220 from:13 to:401
+		1246 from:145 to:543
+		1949 from:819 to:1712
+		1067 from:321 to:467
+		1434 from:367 to:137
+		1831 from:1663 to:1620
+		1760 from:39 to:59
+		1733 from:353 to:253
+		1920 from:61 to:1704
+		1769 from:1658 to:1659
+		1578 from:137 to:77
+		1432 from:63 to:247
+		1663 from:1630 to:1631
+		1277 from:231 to:203
+		1630 from:463 to:489
+		1369 from:169 to:939
+		261 from:901 to:27
+		1270 from:205 to:295
+		1847 from:151 to:1683
+		1740 from:353 to:359
+		1767 from:1656 to:927
+		1352 from:353 to:427
+		1848 from:1683 to:95
+		1701 from:649 to:1641
+		1334 from:353 to:375
+		1276 from:453 to:65
+		1397 from:801 to:155
+		1877 from:1689 to:501
+		1809 from:353 to:859
+		1166 from:767 to:509
+		1735 from:1643 to:21
+		1140 from:123 to:73
+		1472 from:767 to:919
+		1323 from:785 to:635
+		1863 from:1686 to:543
+		1281 from:239 to:245
+		1941 from:1697 to:1708
+		1606 from:193 to:126
+		1337 from:463 to:837
+		35 from:33 to:37
+		1749 from:97 to:785
+		1171 from:19 to:821
+		1616 from:801 to:729
+		1743 from:1644 to:1645
+		1768 from:1657 to:217
+		1638 from:1619 to:385
+		1922 from:65 to:1705
+		1840 from:1680 to:1616
+		1865 from:1642 to:95
+		84 from:85 to:489
+		1593 from:601 to:693
+		1882 from:268 to:185
+		1402 from:19 to:165
+		1653 from:1613 to:295
+		1229 from:447 to:389
+		1668 from:1634 to:1635
+		1262 from:141 to:283
+		1356 from:737 to:53
+		1263 from:489 to:647
+		1232 from:845 to:523
+		1439 from:373 to:501
+		1418 from:859 to:85
+		1723 from:9 to:907
+		1811 from:49 to:1644
+		1855 from:1684 to:1648
+		1163 from:71 to:85
+		1643 from:1628 to:1626
+		1956 from:1699 to:1713
+		1508 from:861 to:139
+		1852 from:675 to:1657
+		1841 from:65 to:1681
+		1064 from:617 to:407
+		1727 from:249 to:693
+		1835 from:565 to:1678
+		1801 from:157 to:1670
+		1745 from:1645 to:59
+		1839 from:1679 to:1680
+		1935 from:85 to:47
+		1490 from:933 to:737
+		1594 from:601 to:623
+		1511 from:65 to:319
+		1905 from:1699 to:1700
+		1648 from:463 to:1624
+		1494 from:489 to:205
+		1051 from:841 to:273
+		1282 from:245 to:833
+		1107 from:629 to:63
+		1637 from:1618 to:543
+		1820 from:1672 to:157
+		1878 from:39 to:1661
+		1184 from:593 to:19
+		1806 from:353 to:641
+		1465 from:861 to:511
+		1674 from:1612 to:235
+		1861 from:755 to:130
+		1257 from:49 to:191
+		1739 from:373 to:1643
+		1109 from:641 to:147
+		1655 from:315 to:205
+		1500 from:831 to:505
+		1737 from:353 to:891
+		1497 from:555 to:357
+		1918 from:103 to:145
+		1125 from:319 to:677
+		1404 from:391 to:173
+		1446 from:967 to:153
+		1220 from:1586 to:363
+		1462 from:865 to:799
+		1628 from:1613 to:647
+		1460 from:157 to:1583
+		1947 from:1710 to:543
+		1827 from:266 to:1675
+		1777 from:1662 to:1628
+		1611 from:529 to:945
+		1314 from:359 to:501
+		1730 from:237 to:563
+		1519 from:945 to:75
+		1267 from:767 to:301
+		1779 from:1664 to:197
+		1731 from:237 to:243
+		1527 from:65 to:29
+		1626 from:389 to:13
+		1046 from:37 to:177
+		1870 from:1687 to:225
+		1445 from:153 to:909
+		1913 from:1702 to:25
+		1704 from:1641 to:225
+		1946 from:1709 to:543
+		1883 from:185 to:239
+		1403 from:7 to:543
+		1885 from:1691 to:272
+		69 from:197 to:67
+		1817 from:65 to:1655
+		1887 from:1692 to:345
+		1153 from:467 to:123
+		1766 from:1655 to:109
+		1430 from:965 to:367
+		1793 from:917 to:505
+		1821 from:1647 to:373
+		1301 from:101 to:603
+		1957 from:1700 to:1713
+		1725 from:601 to:249
+		1642 from:1627 to:1626
+		1712 from:1642 to:307
+		1147 from:187 to:607
+		1379 from:165 to:357
+		1660 from:155 to:1638
+		1903 from:1698 to:675
+		1634 from:647 to:837
+		1955 from:1698 to:1713
+		1926 from:109 to:1706
+		1901 from:1698 to:1632
+		1785 from:1666 to:1667
+		1300 from:273 to:161
+		1461 from:529 to:845
+		1672 from:56 to:699
+		1311 from:321 to:623
+		1647 from:463 to:1617
+		1495 from:649 to:733
+		1425 from:63 to:471
+		1437 from:217 to:207
+		263 from:47 to:276
+		1351 from:433 to:781
+		1037 from:931 to:1586
+		1100 from:257 to:203
+		1791 from:1616 to:1622
+		1917 from:1703 to:133
+		1797 from:15 to:1669
+		1776 from:39 to:1662
+		1944 from:1697 to:1711
+		1960 from:173 to:1713
+		1867 from:1658 to:139
+		1794 from:59 to:505
+		1656 from:295 to:543
+		1872 from:1688 to:143
+		1909 from:431 to:383
+		1530 from:243 to:272
+		1502 from:767 to:241
+		1799 from:185 to:223
+		1716 from:283 to:505
+		1889 from:693 to:1693
+		1860 from:1685 to:687
+		1078 from:19 to:311
+		1721 from:431 to:27
+		1932 from:603 to:85
+		1871 from:511 to:1688
+		1362 from:141 to:831
+		1830 from:307 to:1663
+		1864 from:729 to:1664
+		1195 from:51 to:915
+		1645 from:1625 to:1620
+		1486 from:885 to:475
+		1738 from:891 to:1643
+		1906 from:1700 to:1701
+		1324 from:71 to:147
+		1515 from:467 to:195
+		1894 from:65 to:1695
+		1096 from:201 to:865
+		1327 from:375 to:97
+		1961 from:49 to:173
+		1254 from:447 to:181
+		1945 from:1708 to:543
+		1133 from:51 to:241
+		1071 from:93 to:463
+		1693 from:39 to:861
+		1325 from:885 to:687
+		1890 from:1693 to:1642
+		1682 from:1639 to:543
+		1842 from:1681 to:1682
+		1695 from:241 to:385
+		1646 from:1620 to:295
+		1126 from:29 to:489
+		1038 from:675 to:203
+		1251 from:357 to:617
+		1796 from:353 to:201
+		1726 from:207 to:249
+		70 from:67 to:345
+		1742 from:33 to:1644
+		1540 from:139 to:281
+		1859 from:919 to:1685
+		1717 from:677 to:145
+		1803 from:266 to:27
+		1631 from:837 to:1614
+		1897 from:589 to:1696
+		1608 from:126 to:59
+		1066 from:531 to:453
+		1910 from:383 to:467
+		1200 from:959 to:189
+		1510 from:565 to:819
+		1225 from:53 to:831
+		1321 from:883 to:431
+		1782 from:29 to:1665
+		1904 from:65 to:1699
+		1923 from:1705 to:1706
+		1357 from:31 to:283
+		1068 from:203 to:377
+		1261 from:615 to:755
+		1680 from:77 to:145
+		1748 from:97 to:891
+		1199 from:755 to:801
+		1838 from:589 to:1679
+		1661 from:1638 to:1630
+		1898 from:1696 to:1697
+		1857 from:1668 to:837
+		1128 from:239 to:49
+		1312 from:687 to:557
+		1144 from:927 to:23
+		1812 from:347 to:1623
+		1513 from:951 to:295
+		1895 from:1695 to:529
+		1750 from:1647 to:353
+		1815 from:65 to:1649
+		1813 from:91 to:1623
+		1828 from:1675 to:39
+		1720 from:801 to:49
+		1041 from:509 to:687
+		1256 from:117 to:171
+		1590 from:209 to:288
+		1892 from:77 to:1694
+		1868 from:1661 to:139
+		1921 from:1704 to:783
+		1295 from:593 to:629
+		1231 from:467 to:601
+		1804 from:65 to:447
+		1762 from:1651 to:109
+		1954 from:1697 to:1713
+		1850 from:157 to:97
+		1919 from:65 to:1693
+		1869 from:223 to:1687
+		1623 from:1612 to:543
+		1697 from:45 to:495
+		1699 from:25 to:1640
+		1192 from:19 to:63
+		1937 from:85 to:841
+		1518 from:97 to:501
+		1951 from:49 to:1697
+		1529 from:171 to:675
+		1755 from:288 to:693
+		1536 from:325 to:399
+		1689 from:39 to:543
+		1802 from:1670 to:223
+		1364 from:21 to:185
+		1705 from:733 to:385
+		1602 from:130 to:45
+		58 from:56 to:133
+		1308 from:217 to:249
+		1930 from:1583 to:407
+		1065 from:751 to:385
+		1649 from:1624 to:1620
+		1545 from:799 to:189
+		1245 from:237 to:871
+		1129 from:475 to:51
+		1667 from:1633 to:1634
+		1959 from:73 to:1713
+		1330 from:467 to:209
+		1718 from:837 to:145
+		1130 from:837 to:951
+		1629 from:647 to:205
+		1619 from:13 to:319
+		979 from:131 to:7
+		1467 from:641 to:85
+		1928 from:157 to:555
+		1706 from:909 to:39
+		1940 from:727 to:39
+		1406 from:427 to:501
+		1441 from:607 to:319
+		1503 from:347 to:151
+		1438 from:699 to:831
+		1234 from:871 to:319
+		1383 from:301 to:551
+		1143 from:659 to:7
+		1761 from:649 to:109
+		1185 from:63 to:895
+		1042 from:177 to:193
+		1449 from:575 to:97
+		1378 from:563 to:437
+		1700 from:965 to:649
+		1644 from:1626 to:1625
+		1121 from:939 to:389
+		1428 from:147 to:865
+		1818 from:65 to:1656
+		1652 from:1623 to:1621
+		1487 from:501 to:65
+		1843 from:1682 to:1651
+		1625 from:389 to:793
+		1354 from:345 to:543
+		1247 from:565 to:965
+		1620 from:841 to:401
+		1431 from:270 to:1583
+		1685 from:1640 to:39
+		1962 from:49 to:73
+		1854 from:97 to:1684
+		1283 from:821 to:877
+		1734 from:353 to:71
+		1179 from:649 to:385
+		1650 from:7 to:1621
+		1686 from:1640 to:543
+		1692 from:99 to:33
+		1319 from:793 to:319
+		1846 from:65 to:385
+		1953 from:191 to:1713
+		1627 from:463 to:1613
+		1879 from:39 to:1658
+		1560 from:557 to:865
+		1764 from:1653 to:1654
+		1615 from:623 to:557
+		1862 from:143 to:1686
+		1893 from:1694 to:59
+		1146 from:401 to:231
+		1825 from:1673 to:1674
+		1417 from:433 to:101
+		1424 from:471 to:871
+		1728 from:237 to:615
+		1710 from:288 to:729
+		1729 from:237 to:733
+		1621 from:401 to:163
+		1884 from:1690 to:1691
+		1876 from:825 to:1689
+		1708 from:551 to:39
+		1389 from:47 to:175
+		1931 from:407 to:272
+		1492 from:147 to:163
+		1744 from:1645 to:37
+		1576 from:629 to:169
+		1681 from:385 to:543
+		1765 from:1654 to:109
+		1746 from:155 to:1646
+		1447 from:53 to:283
+		1093 from:907 to:831
+		1131 from:801 to:693
+		1908 from:266 to:383
+		1636 from:1617 to:1618
+		1943 from:1697 to:1710
+		1833 from:1676 to:345
+		1837 from:1640 to:1616
+		1873 from:519 to:159
+		1609 from:56 to:7
+		1426 from:665 to:531
+		1677 from:161 to:155
+		1780 from:272 to:729
+		1881 from:889 to:268
+		1292 from:495 to:7
+		1844 from:151 to:65
+		1952 from:1713 to:543
+		1198 from:363 to:539
+		1459 from:85 to:37
+		1770 from:1661 to:1659
+		1694 from:241 to:77
+		1595 from:91 to:543
+		1684 from:133 to:235
+		1475 from:251 to:347
+		1409 from:599 to:137
+		1651 from:1622 to:1621
+		1758 from:1649 to:727
+		1775 from:1628 to:1627
+		1939 from:1707 to:39
+		1216 from:401 to:599
+		1747 from:1646 to:1633
+		1836 from:1678 to:1616
+		1639 from:205 to:1617
+		1368 from:51 to:321
+		1703 from:1641 to:131
+		1488 from:819 to:115
+		1675 from:91 to:235
+		1916 from:27 to:1703
+		1929 from:553 to:1583
+		1091 from:253 to:268
+		1562 from:353 to:553
+		1223 from:171 to:377
+		1607 from:126 to:543
+		1654 from:1621 to:295
+		1207 from:311 to:901
+		1902 from:1698 to:7
+		1829 from:65 to:883
+		1783 from:933 to:1665
+		1599 from:130 to:91
+		1501 from:185 to:433
+		1915 from:431 to:9
+		1741 from:65 to:833
+		1332 from:29 to:737
+		1958 from:1701 to:1713
+		1399 from:185 to:501
+		1736 from:353 to:889
+		1795 from:505 to:345
+		1715 from:109 to:307
+		1349 from:47 to:679
+		1101 from:755 to:519
+		1666 from:155 to:1633
+		1145 from:767 to:315
+		1392 from:279 to:917
+		1824 from:65 to:1673
+		1193 from:895 to:959
+		1361 from:247 to:895
+		1081 from:525 to:147
+		1553 from:175 to:767
+		1533 from:839 to:147
+		1786 from:1667 to:489
+		1933 from:363 to:85
+		1633 from:1614 to:495
+		1948 from:1711 to:543
+		1455 from:877 to:565
+		1443 from:679 to:693
+		1429 from:399 to:795
+		1265 from:767 to:885
+		1891 from:103 to:77
+		1178 from:907 to:53
+	nodes 
+		1689 system:unknown nameRu:"Миграция NUMT-псевдогенов в ядро"
+		1638 system:metabolism nameRu:"Повышение активности липазы"
+		623 ageFrom:40 ageTo:50 system:metabolism nameRu:"Увеличение количества жировой ткани"
+		767 ageFrom:20 ageTo:30 system:hormones nameRu:"Гипотрофия нейроэндокринных узлов (в гипоталамусе и стволе мозга)"
+		131 ageFrom:60 ageTo:70 system:cardiovascular nameRu:"Инфаркт миокарда"
+		1646 system:unknown nameRu:"Повышение уровня кортизола в крови"
+		1641 ageFrom:50 system:immune nameRu:"Первично-прогрессирующая форма рассеянного склероза"
+		276 ageFrom:25 ageTo:35 system:metabolism nameRu:"Уменьшение синтеза С-комплемента"
+		13 ageFrom:20 ageTo:50 system:cell nameRu:"Ухудшение питания клеток"
+		433 ageFrom:20 ageTo:30 system:intersystem nameRu:"Негативное изменение конститутивной экспрессии генов"
+		307 ageFrom:65 ageTo:75 system:intersystem nameRu:"Переломы"
+		1666 ageFrom:30 ageTo:40 system:cardiovascular nameRu:"Начало кальциноза артерий"
+		139 ageFrom:50 ageTo:100 system:immune nameRu:"Продуцирование воспалительных цитокинов"
+		272 ageFrom:60 ageTo:80 system:cell nameRu:"Репликативное старение (стойкое прекращение митоза)"
+		665 ageFrom:20 ageTo:30 system:intersystem nameRu:"Снижение синтеза мРНК"
+		1612 ageFrom:55 ageTo:80 system:metabolism nameRu:"Инсулиннезависимый сахарный диабет (II типа)"
+		21 ageFrom:15 ageTo:25 system:intersystem nameRu:"Негомологичная рекомбинация хромосом"
+		159 ageFrom:15 ageTo:85 system:metabolism nameRu:"Образование малонового альдегида"
+		679 ageFrom:20 ageTo:30 system:metabolism nameRu:"Снижение выработки Q10"
+		1619 system:cardiovascular nameRu:"Нарушение функционирования головного мозга"
+		367 ageFrom:55 ageTo:65 system:intersystem nameRu:"Артриты"
+		589 ageFrom:50 ageTo:85 system:metabolism nameRu:"Кишечная интоксикация"
+		1694 ageFrom:65 ageTo:79 system:unknown nameRu:"Длительное лежание в постели"
+		453 ageFrom:25 ageTo:35 system:cell nameRu:"Снижение количества и качества рибосом"
+		1614 system:cardiovascular nameRu:"Ухудшение коронарного кровообращения"
+		865 ageFrom:40 ageTo:50 system:cardiovascular nameRu:"Изменение структуры аполипопротеина (ЛПНП)"
+		1705 system:unknown nameRu:"Гипотрофия гладкой мускулатуры стенки кишечника"
+		1676 system:respiratory nameRu:"Жировая эмболия сосудов легких"
+		249 ageFrom:50 ageTo:60 system:cell nameRu:"Уменьшение количества миоцитов"
+		1683 system:cell nameRu:"Уменьшение поглощения кислорода клеткой"
+		1620 system:cardiovascular nameRu:"Закупорка сосудов мозга"
+		825 ageFrom:20 ageTo:30 system:intersystem nameRu:"Образование NUMT-псевдогенов в мтДНК"
+		641 ageFrom:20 ageTo:30 system:intersystem nameRu:"Накопление карбонилированных белков"
+		1634 system:metabolism nameRu:"Повышение содержания аминокислот в крови"
+		1669 system:unknown nameRu:"Межбелковые сшивки"
+		1684 system:cell nameRu:"Снижение скорости деления стволовых мышечных клеток"
+		617 ageFrom:30 ageTo:40 system:metabolism nameRu:"Снижение выработки АТФ (в отдельных клетках)"
+		29 ageFrom:30 ageTo:40 system:metabolism nameRu:"Замедление процесса синтеза эластина и коллагена"
+		837 ageFrom:50 ageTo:60 system:cardiovascular nameRu:"Ухудшение общего кровообращения"
+		529 ageFrom:40 ageTo:85 system:metabolism nameRu:"Снижение ферментной активности в железистых клетках ЖКТ"
+		489 ageFrom:45 ageTo:60 system:cardiovascular nameRu:"Уменьшение эластичности сосудов"
+		933 ageFrom:30 ageTo:40 system:metabolism nameRu:"Окисление эластина"
+		467 ageFrom:30 ageTo:40 system:hormones nameRu:"Снижение секреции половых гормонов (тестостерон, эстрадиол, прогестерон)"
+		193 ageFrom:60 ageTo:70 system:nervous nameRu:"Болезнь Альцгеймера"
+		97 ageFrom:20 ageTo:30 system:intersystem nameRu:"Точковые (ядерные) мутации"
+		793 ageFrom:40 ageTo:50 system:connective nameRu:"Ухудшение передачи сигнальной информации"
+		603 ageFrom:30 ageTo:40 system:cell nameRu:"Подавление аутофагии"
+		889 ageFrom:20 ageTo:30 system:intersystem nameRu:"Потеря Т-петли в теломерах"
+		539 ageFrom:20 ageTo:30 system:intersystem nameRu:"Накопление нефункциональных белков, входящих в состав антиоксидантных систем"
+		1658 system:respiratory nameRu:"Хронический обструктивный бронхит"
+		1626 system:cardiovascular nameRu:"Образование пристеночных тромбов в сердце"
+		223 ageFrom:15 ageTo:25 system:immune nameRu:"Сверхактивация протоонкогенов"
+		1647 ageFrom:10 ageTo:15 system:unknown nameRu:"Экзогенные химические и физические факторы"
+		1675 system:unknown nameRu:"Нарушение миграции лимфоцитов в лимфоузлы"
+		729 ageFrom:50 ageTo:80 system:connective nameRu:"Гипоплазия тканей"
+		373 ageFrom:20 ageTo:30 system:intersystem nameRu:"Транспозиция мобильных элементов генома"
+		101 ageFrom:30 ageTo:40 system:cell nameRu:"Ингибирование протеосомы"
+		821 ageFrom:40 ageTo:50 system:cell nameRu:"Образование дефектных антигенов в клетках организма"
+		353 ageFrom:15 ageTo:25 system:intersystem nameRu:"Выработка свободных радикалов"
+		1710 system:cancer nameRu:"Рак тонкого кишечника"
+		1688 system:unknown nameRu:"Поздние мутации"
+		1709 system:cancer nameRu:"Рак желудка"
+		266 ageFrom:35 ageTo:45 system:cell nameRu:"Нарушения хоминга"
+		1644 system:unknown nameRu:"Усиление продуцирование металлопротеиназ"
+		237 ageFrom:30 ageTo:40 system:cell nameRu:"Изменение рецепторной чувствительности клетки"
+		1711 system:cancer nameRu:"Рак толстого кишечника"
+		1616 system:cell nameRu:"Повышение проницаемости сосудистой стенки"
+		1693 system:unknown nameRu:"Атрофия мышц (саркопения)"
+		845 ageFrom:45 ageTo:50 system:metabolism nameRu:"Нарушение усваиваемости витаминов групп BDCE"
+		225 ageFrom:55 ageTo:65 system:cancer nameRu:"Активирование очагов онкологических клеток"
+		1622 system:cell nameRu:"Гиповолемия"
+		65 ageFrom:20 ageTo:45 system:metabolism nameRu:"Снижение синтеза белка"
+		93 ageFrom:50 ageTo:60 system:cell nameRu:"Размножение гладкомышечных клеток"
+		1586 ageFrom:15 ageTo:25 system:intersystem nameRu:"Рост доли субъединиц протеосом с пониженной активностью"
+		781 ageFrom:20 ageTo:30 system:intersystem nameRu:"Снижение экспрессии компонентов репаративных систем"
+		301 ageFrom:30 ageTo:40 system:hormones nameRu:"Гипотрофия эпифиза"
+		907 ageFrom:43 ageTo:50 system:respiratory nameRu:"Увеличение количества соединительной ткани"
+		471 ageFrom:30 ageTo:40 system:cell nameRu:"Нарушение транспорта метаболитов через мембрану"
+		33 ageFrom:50 ageTo:60 system:immune nameRu:"Хронические генерализованные вялотекущие воспаления"
+		553 ageFrom:20 ageTo:30 system:intersystem nameRu:"Блокирование репликационной вилки"
+		51 ageFrom:25 ageTo:35 system:hormones nameRu:"Гипотрофия надпочечников"
+		1700 system:cell nameRu:"Уменьшение функциональной активности кардиомиоцитов"
+		1625 system:cardiovascular nameRu:"Тромботическая эмболия сосудов мозга"
+		71 ageFrom:15 ageTo:25 system:intersystem nameRu:"Накопление денатурированных белков"
+		951 ageFrom:55 ageTo:65 system:cardiovascular nameRu:"Нарушение мозгового кровообращения"
+		1672 system:unknown nameRu:"Тепловое движение молекул"
+		525 ageFrom:20 ageTo:30 system:intersystem nameRu:"Накопление окисленных белков"
+		141 ageFrom:50 ageTo:60 system:respiratory nameRu:"Соединение альвеол между собой"
+		1712 system:unknown nameRu:"Гиппоплазия обкладочных стенок слизисток желудка"
+		383 ageFrom:30 ageTo:40 system:hormones nameRu:"Гипотрофия половых желез"
+		103 ageFrom:65 ageTo:75 system:intersystem nameRu:"Усиление атрофии мышц"
+		315 ageFrom:30 ageTo:40 system:hormones nameRu:"Повышение секреции вазопрессина"
+		1662 system:unknown nameRu:"Стрептококковая и стафилококковая инфекция"
+		385 ageFrom:70 ageTo:80 system:nervous nameRu:"Ухудшение когнитивных способностей мозга"
+		197 ageFrom:65 ageTo:75 system:respiratory nameRu:"Анемия"
+		1680 system:immune nameRu:"Аллергические реакции"
+		61 ageFrom:40 ageTo:85 system:metabolism nameRu:"Увеличение количества непереваренной пищи в ЖКТ"
+		1640 ageFrom:40 ageTo:50 system:metabolism nameRu:"Общая интоксикация организма"
+		607 ageFrom:35 ageTo:45 system:cell nameRu:"Переполнение лизосомы"
+		253 ageFrom:15 ageTo:25 system:intersystem nameRu:"Потеря белков, покрывающих теломеры (TRF2)"
+		1628 system:cardiovascular nameRu:"Эндокардит"
+		505 ageFrom:65 ageTo:75 system:respiratory nameRu:"Легочная недостаточность"
+		675 ageFrom:50 ageTo:60 system:metabolism nameRu:"Увеличение уровня Ca в крови"
+		155 ageFrom:45 ageTo:55 system:hormones nameRu:"Стойкое понижение уровня инсулина в крови"
+		877 ageFrom:40 ageTo:50 system:cell nameRu:"Иммунная система воспринимает эти клетки как чужеродные"
+		1618 system:cardiovascular nameRu:"Геморрагический инсульт"
+		56 ageFrom:50 ageTo:60 system:cardiovascular nameRu:"Гипотрофия тканей, вызванная ухудшением общего кровообращения"
+		1659 system:respiratory nameRu:"Хронический кашель"
+		1701 ageFrom:45 system:cardiovascular nameRu:"Уменьшение функциональной активности миокарда"
+		795 ageFrom:35 ageTo:45 system:connective nameRu:"Уменьшение количества информационных молекул"
+		1686 system:unknown nameRu:"Функциональная недостаточность органов"
+		187 ageFrom:30 ageTo:40 system:metabolism nameRu:"Накопление липофусцина"
+		1623 system:cardiovascular nameRu:"Брадикардия"
+		1656 system:cell nameRu:"Дефицит фактора роста нервов (ФРН)"
+		77 ageFrom:60 ageTo:70 system:intersystem nameRu:"Снижение физической работоспособности"
+		733 ageFrom:50 ageTo:60 system:nervous nameRu:"Уменьшение адаптивной реакции"
+		1653 system:unknown nameRu:"Уменьшение синтеза ацетилхолина"
+		157 ageFrom:10 ageTo:15 system:immune nameRu:"Стохастическое повреждение ДНК"
+		819 ageFrom:45 ageTo:55 system:cell nameRu:"Атака обкладочных клеток желудка иммунной системой"
+		531 ageFrom:20 ageTo:30 system:intersystem nameRu:"Снижение синтеза рибосомальных белков"
+		601 ageFrom:35 ageTo:45 system:hormones nameRu:"Менопауза и андропауза"
+		85 ageFrom:25 ageTo:35 system:intersystem nameRu:"Накопление белковых агрегатов (клеточного мусора)"
+		1679 system:metabolism nameRu:"Дисбактериоз"
+		359 ageFrom:20 ageTo:30 system:intersystem nameRu:"Эпигенетические нарушения (сшивки ДНК-белок, деметилирование ДНК)"
+		363 ageFrom:20 ageTo:30 system:intersystem nameRu:"Накопление нефункциональных белков"
+		1632 system:metabolism nameRu:"Метаболический ацидоз"
+		891 ageFrom:20 ageTo:30 system:intersystem nameRu:"Разрывы цепей ДНК"
+		563 ageFrom:55 ageTo:65 system:cell nameRu:"Уменьшение количества нейронов"
+		319 ageFrom:50 ageTo:60 system:cell nameRu:"Нарушение функций клетки"
+		1696 system:cancer nameRu:"Повышение онкориска ЖКТ"
+		1649 system:metabolism nameRu:"Уменьшение концентрации цитокина IL7 в тимусе"
+		649 ageFrom:45 ageTo:50 system:nervous nameRu:"Уменьшение проводимости нервных волокон"
+		209 ageFrom:30 ageTo:40 system:cell nameRu:"Уменьшение пролифирации клеток"
+		839 ageFrom:20 ageTo:30 system:intersystem nameRu:"Снижение активности белков теплового шока"
+		883 ageFrom:35 ageTo:50 system:cell nameRu:"Уменьшение количества внутриклеточных элементов (митохондрии, рибосомы)"
+		345 ageFrom:70 ageTo:100 system:respiratory nameRu:"Гипоксия (разной степени)"
+		1631 system:metabolism nameRu:"Кетонемия"
+		687 ageFrom:30 ageTo:40 system:metabolism nameRu:"Постоянное переедание"
+		1624 system:cardiovascular nameRu:"Тромбоз сосудов мозга"
+		203 ageFrom:50 ageTo:60 system:intersystem nameRu:"Остеохондроз"
+		7 ageFrom:60 ageTo:70 system:cardiovascular nameRu:"Сердечная недостаточность"
+		1636 system:metabolism nameRu:"Отрицательный азотный баланс"
+		693 ageFrom:50 ageTo:60 system:intersystem nameRu:"Гипоплазия мышечной ткани"
+		555 ageFrom:20 ageTo:30 system:intersystem nameRu:"Мутации мтДНК"
+		1648 ageFrom:30 ageTo:40 system:cell nameRu:"Уменьшение количества стволовых мышечных клеток"
+		49 ageFrom:55 ageTo:65 system:cancer nameRu:"Онкогенез злокачественные (и доброкачественные) опухоли"
+		37 ageFrom:55 ageTo:65 system:nervous nameRu:"Накопление аммилоидных фибрил (бетта-амилоида)"
+		73 ageFrom:55 ageTo:65 system:cancer nameRu:"Рак молочной железы"
+		241 ageFrom:30 ageTo:100 system:hormones nameRu:"Снижение секреции норадреналина"
+		391 ageFrom:40 ageTo:50 system:hormones nameRu:"Гипертрофия простаты"
+		235 ageFrom:50 ageTo:60 system:metabolism nameRu:"Почечная недостаточность"
+		755 ageFrom:35 ageTo:45 system:metabolism nameRu:"Длительное повышение уровня глюкозы в крови"
+		207 ageFrom:50 ageTo:60 system:cell nameRu:"Ухудшение функций миоцитов"
+		1633 system:cell nameRu:"Уменьшение транспорта аминокислот в клетки"
+		177 ageFrom:55 ageTo:65 system:nervous nameRu:"Увеличение количества амилоидных бляшек"
+		575 ageFrom:20 ageTo:30 system:intersystem nameRu:"Образование алкилированных оснований"
+		251 ageFrom:20 ageTo:35 system:hormones nameRu:"Снижение выработки ТТГ (Тиреотропный гормон)"
+		447 ageFrom:30 ageTo:40 system:cell nameRu:"Уменьшение количества (и ухудшение качества) адгезивных рецепторов"
+		599 ageFrom:35 ageTo:45 system:cell nameRu:"Ухудшение состояния межклеточного матрикса в сухожилиях"
+		551 ageFrom:30 ageTo:40 system:hormones nameRu:"Снижение секреции мелатонина"
+		411 ageFrom:50 ageTo:60 system:hormones nameRu:"Подавление секреции паратиреоидного гормона"
+		1678 system:unknown nameRu:"Воспаление сосудистой стенки"
+		95 ageFrom:65 ageTo:75 system:intersystem nameRu:"Ограничение подвижности"
+		1691 system:unknown nameRu:"Нормальное укорочение теломер"
+		833 ageFrom:25 ageTo:35 system:cell nameRu:"p53-зависимая необратимая задержка митоза"
+		1713 system:cancer nameRu:"Раковая интоксикация"
+		965 ageFrom:45 ageTo:55 system:immune nameRu:"Аутоиммунные заболевания"
+		475 ageFrom:25 ageTo:35 system:hormones nameRu:"Снижение выработки АКТГ (Аденекортикотропный гормон)"
+		939 ageFrom:20 ageTo:45 system:cell nameRu:"Уменьшение проницаемости межклеточного пространства"
+		859 ageFrom:15 ageTo:20 system:intersystem nameRu:"Накопление белковых сшивок"
+		1663 system:unknown nameRu:"Жировая эмболия"
+		1699 system:metabolism nameRu:"Уменьшение синтеза белка в кардиомиоцитах"
+		1627 system:cardiovascular nameRu:"Пороки сердца"
+		885 ageFrom:20 ageTo:35 system:hormones nameRu:"Гипотрофия передней доли гипофиза"
+		288 ageFrom:30 ageTo:40 system:cell nameRu:"Уменьшение скорости физиологической регенерации тканей"
+		737 ageFrom:35 ageTo:45 system:respiratory nameRu:"Уменьшение эластичности стенок легочных альвеол"
+		431 ageFrom:35 ageTo:50 system:cell nameRu:"Уменьшение объёма клетки"
+		927 ageFrom:45 ageTo:60 system:nervous nameRu:"Деструкция симпатических окончаний"
+		1657 system:cell nameRu:"Кальцификация миоцитов"
+		1706 system:unknown nameRu:"Ослабление мышечного тонуса стенки кишечника"
+		217 ageFrom:50 ageTo:60 system:cell nameRu:"Накопление повреждений в миоцитах"
+		15 ageFrom:40 ageTo:50 system:metabolism nameRu:"Накопление гликированных белков"
+		635 ageFrom:20 ageTo:30 system:intersystem nameRu:"Снижение синтеза рибосомальной РНК"
+		147 ageFrom:25 ageTo:35 system:intersystem nameRu:"Накопление нефункциональных белков"
+		45 ageFrom:55 ageTo:65 system:metabolism nameRu:"Метаболический синдром"
+		523 ageFrom:50 ageTo:60 system:metabolism nameRu:"Ухудшение усвоения кальция и витамина D в кишечнике"
+		919 ageFrom:25 ageTo:35 system:hormones nameRu:"Изменение порога чувствительности в центре аппетита гипоталамуса"
+		1667 ageFrom:55 ageTo:65 system:cardiovascular nameRu:"Выраженный кальциноз артерий"
+		909 ageFrom:55 ageTo:60 system:nervous nameRu:"Депрессия"
+		1613 system:cardiovascular nameRu:"Сужение просвета сосудов"
+		283 ageFrom:60 ageTo:70 system:respiratory nameRu:"Уменьшение жизненной емкости легких"
+		1654 system:cell nameRu:"Нарушение межсинаптической связи между нейронами"
+		1682 system:nervous nameRu:"Утомление синапсов"
+		1674 system:unknown nameRu:"Нарушение взаимодействия между белками хоминга (L-селектинамии адрессинами)"
+		75 ageFrom:45 ageTo:50 system:immune nameRu:"Атрофия селезенки"
+		201 ageFrom:40 ageTo:50 system:intersystem nameRu:"Сшивки (из-за металлов переменной валентности, диальдегидов)"
+		39 ageFrom:50 ageTo:60 system:immune nameRu:"Вторичный иммунодефицит"
+		1692 ageFrom:60 ageTo:70 system:respiratory nameRu:"Инфаркт легких"
+		243 ageFrom:40 ageTo:60 system:cell nameRu:"Блокирование реакций клетки на факторы роста, активирующие ее пролиферацию"
+		59 ageFrom:70 ageTo:100 system:respiratory nameRu:"Пневмония"
+		67 ageFrom:65 ageTo:75 system:respiratory nameRu:"Ухудшение снабжения тканей кислородом"
+		99 ageFrom:40 ageTo:50 system:cell nameRu:"Уменьшение кол-ва В-лимфоцитов которые отвечают за специфические реакции"
+		321 ageFrom:30 ageTo:40 system:hormones nameRu:"Снижение секреции Дегидроэпиандростерона"
+		145 ageFrom:70 ageTo:80 system:intersystem nameRu:"Общая дряхлость организма"
+		1621 system:cardiovascular nameRu:"Артериальная гипотония"
+		565 ageFrom:45 ageTo:55 system:immune nameRu:"Появление аутоиммунной реакции"
+		557 ageFrom:35 ageTo:45 system:cardiovascular nameRu:"Накопление жирных кислот в крови"
+		389 ageFrom:20 ageTo:40 system:cell nameRu:"Уменьшение числа связей между клетками"
+		1642 ageFrom:50 ageTo:60 system:unknown nameRu:"Мышечная слабость"
+		841 ageFrom:20 ageTo:60 system:intersystem nameRu:"Первичное ухудшение микроциркуляции крови и лимфы"
+		1660 system:respiratory nameRu:"Повышение давления в альвеолах"
+		126 ageFrom:60 ageTo:70 system:nervous nameRu:"Нарушение регуляции основных систем жизнеобеспечения"
+		1617 system:cardiovascular nameRu:"Разрыв сосудов мозга"
+		931 ageFrom:15 ageTo:25 system:intersystem nameRu:"Возрастное переключение активности разных субъединиц протеасом"
+		137 ageFrom:55 ageTo:65 system:intersystem nameRu:"Костные шипы"
+		1651 system:nervous nameRu:"Повышение порога возбудимости нервных центров"
+		785 ageFrom:15 ageTo:25 system:intersystem nameRu:"Снижение количества активных копий ДНК, кодирующей рибосомальную РНК и белки"
+		1635 system:metabolism nameRu:"Выделение аминокислот с мочей"
+		1629 system:hormones nameRu:"Повышение уровня глюкагона в крови"
+		47 ageFrom:20 ageTo:30 system:metabolism nameRu:"Накопление клеточного мусора в клетках печени"
+		945 ageFrom:45 ageTo:85 system:metabolism nameRu:"Дефицит микроэлементов"
+		231 ageFrom:45 ageTo:55 system:cell nameRu:"Ухудшение состояния межклеточного матрикса в хрящах"
+		1664 system:unknown nameRu:"Гипоплазия костного мозга"
+		1655 system:cell nameRu:"Уменьшение количества нервных рецепторов"
+		257 ageFrom:50 ageTo:60 system:intersystem nameRu:"Ревматизм"
+		511 ageFrom:40 ageTo:100 system:immune nameRu:"Интеграция ретровирусов в ДНК"
+		31 ageFrom:55 ageTo:70 system:respiratory nameRu:"Атрофия лёгочных альвеол"
+		333 ageFrom:40 ageTo:50 system:cell nameRu:"Ухудшение ансамблевой работы клеток"
+		115 ageFrom:50 ageTo:60 system:metabolism nameRu:"Неусвоение витамина B12"
+		727 ageFrom:20 ageTo:50 system:cell nameRu:"Начало атрофии ретикулярных клеток тимуса"
+		117 ageFrom:45 ageTo:55 system:hormones nameRu:"Повышение активности паратиреоидного гормона"
+		189 ageFrom:45 ageTo:55 system:cell nameRu:"Образование пенистых клеток"
+		1685 system:unknown nameRu:"Замедление поступления сигналов в центре насыщения гипоталамуса о насыщении"
+		377 ageFrom:55 ageTo:65 system:intersystem nameRu:"Остеопороз"
+		1681 system:nervous nameRu:"Истощение запасов нейромедиаторов"
+		917 ageFrom:65 ageTo:75 system:respiratory nameRu:"Нарушение газообмена CO2 и O2"
+		163 ageFrom:30 ageTo:40 system:cell nameRu:"Снижение количества функционирующих клеток"
+		659 ageFrom:55 ageTo:65 system:cardiovascular nameRu:"Миокардиопатия"
+		1704 system:unknown nameRu:"Задержка эвакуации непереваренной пищи (запор)"
+		143 ageFrom:50 ageTo:60 system:connective nameRu:"Снижение функциональной активности (тканей, органов, систем)"
+		967 ageFrom:50 ageTo:60 system:metabolism nameRu:"Гиповитаминоз B12"
+		1643 system:unknown nameRu:"Разрывы хромосом"
+		647 ageFrom:50 ageTo:60 system:cardiovascular nameRu:"Увеличение периферического сопротивления"
+		509 ageFrom:25 ageTo:35 system:hormones nameRu:"Нарушение суточного ритма секреции нейрпептида Y"
+		1687 system:unknown nameRu:"Превращение протоонкогенов в онкогены"
+		1703 system:unknown nameRu:"Уменьшение функциональной активности клеток почек"
+		799 ageFrom:45 ageTo:55 system:cell nameRu:"Накопление внеклеточного мусора"
+		1645 system:cell nameRu:"Уменьшение функциональной активности рецепторов"
+		357 ageFrom:30 ageTo:40 system:cell nameRu:"Появление дефектных митохондрий"
+		399 ageFrom:30 ageTo:40 system:cell nameRu:"Негативное изменение межклеточного матрикса"
+		1661 system:respiratory nameRu:"Бронхиальная астма"
+		153 ageFrom:50 ageTo:60 system:nervous nameRu:"Уменьшение количества серотонина"
+		205 ageFrom:55 ageTo:65 system:cardiovascular nameRu:"Артериальная гипертония"
+		1670 system:unknown nameRu:"Амплификация ДНК"
+		169 ageFrom:25 ageTo:35 system:cell nameRu:"Увеличение количества коллагенных волокон (между клеток)"
+		91 ageFrom:50 ageTo:85 system:metabolism nameRu:"Сахарный диабет пожилого возраста"
+		239 ageFrom:20 ageTo:30 system:intersystem nameRu:"Нестабильность генома"
+		1652 system:metabolism nameRu:"Уменьшение активности холинацетилазы"
+		1690 ageFrom:10 ageTo:15 system:unknown nameRu:"Недорепликация ДНК при нормальной пролиферации клеток"
+		1665 ageFrom:30 ageTo:40 system:cardiovascular nameRu:"Уменьшение содержания эластина в стенках артерий (на 5–10%)"
+		295 ageFrom:60 ageTo:70 system:cardiovascular nameRu:"Ишемический инсульт"
+		175 ageFrom:20 ageTo:30 system:metabolism nameRu:"Снижение секреции IGF-1 (инсулиноподобного фактора роста-1) в гепатоцитах печени"
+		23 ageFrom:50 ageTo:60 system:nervous nameRu:"Уменьшение влияния на сердце симпатической нервной системы"
+		463 ageFrom:50 ageTo:60 system:cardiovascular nameRu:"Образование атеросклеротических бляшек"
+		27 ageFrom:40 ageTo:40 system:cell nameRu:"Уменьшение функциональной активности клеток"
+		501 ageFrom:25 ageTo:35 system:intersystem nameRu:"Нарушение индуцибельной экспрессии генов ДНК"
+		130 ageFrom:50 ageTo:60 system:metabolism nameRu:"Ожирение"
+		325 ageFrom:30 ageTo:40 system:intersystem nameRu:"Накопление дефектного коллагена"
+		519 ageFrom:40 ageTo:50 system:metabolism nameRu:"Увеличение количества альдегидов"
+		959 ageFrom:45 ageTo:55 system:cell nameRu:"Переполнение макрофагов окислами липидов"
+		1668 system:cardiovascular nameRu:"Уменьшение кровотока"
+		1707 system:immune nameRu:"Гормональное усиление атрофии ретикулярных клеток тимуса"
+		171 ageFrom:45 ageTo:55 system:metabolism nameRu:"Вымывание Ca из костей"
+		19 ageFrom:20 ageTo:30 system:intersystem nameRu:"Накопление сшивок липид-белок"
+		375 ageFrom:20 ageTo:30 system:intersystem nameRu:"Образование 8-оксо-2’деоксигуанозина в промоторных и энхансерных участках ДНК"
+		1702 system:unknown nameRu:"Дальнейшее ухудшение функциональной активности печени"
+		311 ageFrom:25 ageTo:35 system:cell nameRu:"Уплотнение клеточной мемраны"
+		1698 system:metabolism nameRu:"Нарушение водно-солевого обмена"
+		543 ageFrom:85 ageTo:90 system:death nameRu:"Смерть организма"
+		1695 system:metabolism nameRu:"Снижение синтеза белка в железистых клетках ЖКТ"
+		195 ageFrom:35 ageTo:45 system:hormones nameRu:"Уменьшение выработки эстрогена"
+		407 ageFrom:35 ageTo:45 system:cell nameRu:"Устойчивое прекращение митоза"
+		123 ageFrom:35 ageTo:45 system:hormones nameRu:"Повышение секреции пролактина"
+		109 ageFrom:50 ageTo:60 system:nervous nameRu:"Снижение скорости рефлексов"
+		9 ageFrom:40 ageTo:50 system:connective nameRu:"Замещение свободного пространства соединительной тканью"
+		247 ageFrom:30 ageTo:40 system:cell nameRu:"Повреждения эндотелия"
+		535 ageFrom:50 ageTo:60 system:metabolism nameRu:"Снижение синтеза кальцийтриола"
+		133 ageFrom:50 ageTo:60 system:metabolism nameRu:"Уменьшение функциональной активности почек"
+		437 ageFrom:55 ageTo:65 system:nervous nameRu:"Болезнь Паркинсона"
+		677 ageFrom:50 ageTo:60 system:cell nameRu:"Появление дефектных клеток"
+		615 ageFrom:35 ageTo:45 system:cell nameRu:"Понижение толерантности к глюкозе"
+		495 ageFrom:55 ageTo:65 system:cardiovascular nameRu:"ИБС"
+		1630 system:metabolism nameRu:"Усиление липолиза (расщепления триглицеридов)"
+		1583 ageFrom:25 ageTo:35 system:cell nameRu:"Временное адаптивное прекращение митоза"
+		53 ageFrom:55 ageTo:65 system:respiratory nameRu:"Уменьшается эластичность легочной ткани"
+		268 ageFrom:20 ageTo:30 system:intersystem nameRu:"Патологическое укорочение теломер"
+		1708 system:cancer nameRu:"Рак пищевода"
+		401 ageFrom:20 ageTo:50 system:connective nameRu:"Ухудшение питания тканей"
+		427 ageFrom:20 ageTo:30 system:intersystem nameRu:"Сшивки ДНК-ДНК"
+		347 ageFrom:20 ageTo:40 system:hormones nameRu:"Гипотрофия щитовидной железы"
+		629 ageFrom:25 ageTo:35 system:metabolism nameRu:"Перикисное окисление липидов в мембранах"
+		181 ageFrom:30 ageTo:40 system:cell nameRu:"Нарушение пула стволовых клеток в популяции, в результате нарушения "Хоминга""
+		270 ageFrom:15 ageTo:25 system:immune nameRu:"Нарушение структуры хроматина"
+		861 ageFrom:35 ageTo:100 system:immune nameRu:"Хронические инфекции"
+		165 ageFrom:25 ageTo:35 system:cell nameRu:"Повреждение мембран митохондрий"
+		699 ageFrom:55 ageTo:65 system:respiratory nameRu:"Гипотрофия мышц грудной клетки"
+		871 ageFrom:30 ageTo:40 system:metabolism nameRu:"Нарушение метаболизма клетки"
+		25 ageFrom:35 ageTo:45 system:connective nameRu:"Ухудшение удаления токсинов"
+		245 ageFrom:20 ageTo:30 system:intersystem nameRu:"Образование сигнала о двухцепочечном разрыве ДНК"
+		831 ageFrom:68 ageTo:75 system:respiratory nameRu:"Эмфизема лёгких"
+		161 ageFrom:45 ageTo:55 system:hormones nameRu:"Гипотрофия эндокринной части поджелудочной железы"
+		281 ageFrom:50 ageTo:100 system:immune nameRu:"Воспалительные реакции в тканях"
+		783 ageFrom:40 ageTo:85 system:cell nameRu:"Разрастание гнилостной флоры"
+		279 ageFrom:50 ageTo:75 system:cell nameRu:"Изменение проницаемости альвеолярной стенки"
+		63 ageFrom:25 ageTo:35 system:cell nameRu:"Изменение физико-химических свойств мембранного матрикса"
+		185 ageFrom:20 ageTo:30 system:intersystem nameRu:"Хромосомные аберрации"
+		915 ageFrom:30 ageTo:40 system:hormones nameRu:"Повышение секреции глюкокортикоидов"
+		901 ageFrom:25 ageTo:35 system:cell nameRu:"Снижение проницаемости мембраны"
+		593 ageFrom:20 ageTo:30 system:intersystem nameRu:"Повышение активности АФК"
+		1639 system:nervous nameRu:"Старческая деменция"
+		1673 system:unknown nameRu:"Уменьшение синтеза селектинов и адрессинов"
+		751 ageFrom:50 ageTo:60 system:nervous nameRu:"Снижение секреции нейротрансмиттеров"
+		801 ageFrom:40 ageTo:50 system:hormones nameRu:"Снижение секреции соматотропина (гормон роста)"
+		173 ageFrom:55 ageTo:65 system:cancer nameRu:"Рак простаты"
+		273 ageFrom:45 ageTo:55 system:intersystem nameRu:"Ухудшение микроциркуляции в поджелудочной железе"
+		191 ageFrom:60 ageTo:70 system:cancer nameRu:"Рак легких"
+		895 ageFrom:30 ageTo:40 system:cardiovascular nameRu:"Проникновение окислов липидов и фибринов и тромбоцитов в субэндотелиальное пространство"
+		151 ageFrom:35 ageTo:45 system:hormones nameRu:"Снижение секреции тиреоидных гормонов"
+		1697 system:cancer nameRu:"Рак ЖКТ"
